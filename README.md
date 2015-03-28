@@ -1,5 +1,6 @@
-# google-homepage
+#google-homepage
 
-PROJECT 1
+This is my attept at recreating the Google Homepage.  Project from The Odin Project.  
+Link: http://www.theodinproject.com/web-development-101/html-css
 
-This is my attempt at replicating the google homepage.  Project from The Odin Project (link: http://www.theodinproject.com/web-development-101/html-css)
+Awesomesauce
