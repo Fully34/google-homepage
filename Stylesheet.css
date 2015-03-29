@@ -66,11 +66,50 @@ a:hover{
 #google_plus:hover{
 	opacity:1;
 }
-input{
+#searchbar {
 	display:block;
 	margin: 0 auto 0 auto;
-	width:550px;
+	width:530px;
 	height:17px;
 	padding:5px 10px;
 	border:1px solid #dcdcdc;
+}
+.footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	display:block;
+	height:40px;
+	width:100%;
+	border-top:1px solid #dcdcdc;
+	background-color:#f1f1f1;
+	font-family:Arial, Sans-serif;
+	font-size:small;
+}
+#left {
+	float:left;
+	margin-left:25px;
+}
+#right{
+	float:right;
+	margin-right:25px;
+}
+button {
+	display:inline-block;
+	height:30px;
+	margin:6px 5px 11px 0px;
+	min-width:59px;
+	border:1px solid #bababa;
+	background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+	border-radius:2px;
+	font-family:Arial, Sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #444
+}
+button:hover{
+	border:2px solid #bababa;
+}
+form{
+	margin-right:40px;
 }
