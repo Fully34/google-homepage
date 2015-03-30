@@ -112,4 +112,11 @@ button:hover{
 }
 form{
 	margin-right:40px;
+	display:inline-block;
+}
+.search {
+	display:block;
+	margin-bottom:15px;
+	width:570px;
+	height:29px;
 }
